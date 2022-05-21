@@ -1,0 +1,7 @@
+class solution:
+def singleNumber(self,I):
+
+sum=0
+for i in I:
+sum=sum^i
+return sum
