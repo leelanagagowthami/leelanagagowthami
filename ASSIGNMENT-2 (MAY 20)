@@ -1,0 +1,9 @@
+a=15
+b=15
+print(5^15)
+print(5&15)
+prit(5|15)
+print(a|4)
+print(-5)
+proint(5>>20)
+print(10<<24)
